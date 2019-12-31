@@ -2,6 +2,9 @@
 
 Scraping images from [Fluff Images](http://majorclanger.co.uk/fluffimagesf.htm)
 
+![coding_style](https://img.shields.io/badge/code%20style-black-000000.svg)
+[![time tracker](https://wakatime.com/badge/github/zehengl/scrapy-fluffs.svg)](https://wakatime.com/badge/github/zehengl/scrapy-fluffs)
+
 ## Usage
 
     git clone git@github.com:zehengl/scrapy-fluffs.git
