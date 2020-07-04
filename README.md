@@ -1,7 +1,6 @@
 # scrapy-fluffs
 
 ![coding_style](https://img.shields.io/badge/code%20style-black-000000.svg)
-[![time tracker](https://wakatime.com/badge/github/zehengl/scrapy-fluffs.svg)](https://wakatime.com/badge/github/zehengl/scrapy-fluffs)
 
 A scrapy app to crawl images from http://majorclanger.co.uk/fluffimagesf.htm
 
