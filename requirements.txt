@@ -1,2 +1,2 @@
-pillow==5.4.1
+pillow==8.1.1
 Scrapy==1.6.0
