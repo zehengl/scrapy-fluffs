@@ -6,5 +6,8 @@
   "files.trimTrailingWhitespace": true,
   "python.formatting.blackPath": "black",
   "python.formatting.provider": "black",
-  "python.pythonPath": "venv/bin/python"
+  "python.pythonPath": "venv/bin/python",
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.colorTheme": "Oceanic Next (dimmed bg)",
+  "workbench.productIconTheme": "material-product-icons",
 }
