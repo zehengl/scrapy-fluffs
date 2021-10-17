@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="https://majorclanger.co.uk/fluffimages.png" alt="logo">
+</div>
+
 # scrapy-fluffs
 
 ![coding_style](https://img.shields.io/badge/code%20style-black-000000.svg)
