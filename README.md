@@ -12,8 +12,8 @@ A scrapy app to crawl images from http://majorclanger.co.uk/fluffimagesf.htm
 
     git clone git@github.com:zehengl/scrapy-fluffs.git
     cd scrapy-fluffs
-    python -m venv venv
-    source venv/bin/activate
+    python -m venv .venv
+    source .venv/bin/activate
     pip install -r requirements.txt
     cd fluffs
     scrapy crawl images
